@@ -1,1 +1,1 @@
-# How-to-Deal-with-the-Errors-in-Data-Cleaning
+# How to Deal with the Errors in Data Cleaning
